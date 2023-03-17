@@ -1,28 +1,28 @@
 // Parameters are placeholder variables that allow us to reuse functions
 
 // Example 1: Without Parameter
+//
+// function printYes(){
+//
+//     console.log('yes');
+//
+// }
 
-function printYes(){
+// printYes(); //prints 'yes' when called
 
-    console.log('yes');
-
-}
-
-printYes(); //prints 'yes' when called
-
-printYes(); //prints 'yes' when called
+// printYes(); //prints 'yes' when called
 
 //Example 2: With parameter
 
-function printText(text){ //one parameter called text
-
-    console.log(text);
+// function printText(text){ //one parameter called text
+    //
+    // console.log(text);
 
 }
 
-printText('yes'); //argument 'yes' replaces parameter text
+// printText('yes'); //argument 'yes' replaces parameter text
 
-printText('no'); //argument 'no' replaces parameter text
+// printText('no'); //argument 'no' replaces parameter text
 
 //Return statements provide values to the rest of the program
 
