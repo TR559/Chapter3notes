@@ -23,4 +23,3 @@ function averageTemp(mondaysTemp,tuesdaysTemp,wednesdaysTemp,thursdaysTemp,frida
     answer = answer.toFixed(2)
     return (answer)
 }
-console.log(averageTemp();
