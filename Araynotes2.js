@@ -6,15 +6,15 @@
 
 //was equal to it
 
-let nums = [5, 4, 3, 2, 1]
-
-let newNums = nums
-
-newNums[0] = 12
-
-console.log('nums: ' + nums)
-
-console.log('newNums: ' + newNums)
+// let nums = [5, 4, 3, 2, 1]
+//
+// let newNums = nums
+//
+// newNums[0] = 12
+//
+// console.log('nums: ' + nums)
+//
+// console.log('newNums: ' + newNums)
 
 //notice both changed?
 
@@ -34,21 +34,21 @@ console.log('newNums: ' + newNums)
 
 //add them into the new array
 
-let vals = [5, 4, 3, 2, 1]
+// let vals = [5, 4, 3, 2, 1]
+//
+// let newVals = []
+//
+// for (let i=0; i<vals.length; i++){
+//
+//     newVals.push(vals[i]);
+//
+// }
 
-let newVals = []
-
-for (let i=0; i<vals.length; i++){
-
-    newVals.push(vals[i]);
-
-}
-
-newVals[0]=12
-
-console.log('vals: ' + vals)
-
-console.log('newVals: ' + newVals)
+// newVals[0]=12
+//
+// console.log('vals: ' + vals)
+//
+// console.log('newVals: ' + newVals)
 
 //option 2: make a shallow copy
 

@@ -18,6 +18,20 @@
 // count(-3)
 // count(23)
 
-let n = [1,2,3,4,5]{
-    for( )
+// function replacewithx(arr,x){
+//     for(let i= 0; i< arr.length;i++){
+//         arr[i]=x
+//     }
+//     console.log(arr)
+// }
+// replacewithx([1,2,3,4,5],9)
+// replacewithx([1,2,3,4,5],7)
+
+function Aray(arr,x){
+    let newAray =[]
+    for(let i= 0; i< arr.length;i++){
+       newAray.push(arr[i])
+    }
+    console.log(arr)
 }
+Aray(5)
