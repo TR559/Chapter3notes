@@ -6,7 +6,7 @@
 //
 // console.log('Hello');
 
-}
+
 
 // 2. call or use the function
 
